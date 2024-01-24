@@ -1,4 +1,4 @@
-# Indeed Job Scraper
+# Jumia Discount Scraper
 A Python scraper built with the Scrapy framework to extract product listings from the [Jumia store](https://www.jumia.com.ng/). 
 The scraper utilizes Scrapy Pipelines for data processing, calculates discount percentages, cleans data, and stores it in MongoDB. 
 
